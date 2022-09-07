@@ -4,13 +4,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".SecondActivity">
 
-    <Button
-        android:id="@+id/open_button"
+    <TextView
+        android:textStyle="bold"
+        android:textSize="48sp"
+        android:textColor="#0000FF"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/open_second"
+        android:text="@string/second_activity"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

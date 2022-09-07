@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">MyKotlinApp</string>
-    <string name="surname">Abdulvosidov</string>
+    <string name="app_name">Twitch Clone</string>
+    <string name="open_second">Open SecondActivity</string>
+    <string name="second_activity">Second Activity</string>
 </resources>
